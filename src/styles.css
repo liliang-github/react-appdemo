@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,
+html,
+#root,
+.animate,
+.ka-wrapper,
+.ka-content {
+	height: 100%;
+	font-family: Arial, Microsoft Yahei, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 0.24rem;
+	overflow: hidden;
+	line-height: 1;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+.slide-enter {
+	transition: 0.3s;
+	transform: translate3d(100%, 0, 0);
+}
+
+.slide-enter-active {
+	transition: 0.3s;
+	transform: translate3d(0, 0, 0);
+}
+
+.slide-exit {
+	transition: 0.3s;
+	transform: translate3d(0, 0, 0);
+}
+
+.slide-exit-active {
+	transition: 0.3s;
+	transform: translate3d(100%, 0, 0);
+}

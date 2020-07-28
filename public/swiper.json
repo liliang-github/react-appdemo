@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "path": "http://47.112.192.52/static/img/1.jpg"
+  },
+  {
+    "id": 2,
+    "path": "http://47.112.192.52/static/img/2.jpg"
+  },
+  {
+    "id": 3,
+    "path": "http://47.112.192.52/static/img/3.jpg"
+  },
+  {
+    "id": 4,
+    "path": "http://47.112.192.52/static/img/4.jpg"
+  },
+  {
+    "id": 5,
+    "path": "http://47.112.192.52/static/img/5.jpg"
+  }
+]
